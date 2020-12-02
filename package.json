@@ -1,0 +1,14 @@
+{
+  "name": "21220",
+  "version": "1.0.0",
+  "description": "latihan merge master ke branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dona Saputra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
